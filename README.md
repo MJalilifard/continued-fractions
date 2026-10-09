@@ -13,7 +13,7 @@ In this project, I tried to find the coefficients of any given number. The resul
 ## CFPeriodOfSquareRoot.jl
 This file finds and prints the coefficients of square roots of numbers less than 100 on each line.
 
-## ContinuedFraction
+## ContinuedFraction.jl
 This is the main file that consists of:
 - Finding as many coefficients as you want (they can be infinite sometimes).
 - Drawing continued fraction LaTeX format using Latexify.
